@@ -27,3 +27,7 @@ Criação de valor
 - Contribui para gerar valor de tempo, lugar qualidade e informação
 
 Quanto maior a separação entre fontes de recursos, produção e consumidores, maior a relevância de logística.
+
+## Evolução da logística
+
+<img src=".assets/img01.JPG"/>
