@@ -10,7 +10,7 @@ Indrodução - Logística e Cadeia de suprimentos
 
 - O que acontece com o valor de um produto quando ele não está disponível onde e quando o cliente precisa?
 
-# Por que a logística importa?
+## Por que a logística importa?
 
 A logística conecta oferta e demanda no espaço e no tempo
 
@@ -31,3 +31,17 @@ Quanto maior a separação entre fontes de recursos, produção e consumidores, 
 ## Evolução da logística
 
 <img src=".assets/img01.JPG"/>
+
+## Crianção de Valor
+
+- Valor de tempo
+Bens e serviços devem estar disponíveis no momento em que são necessários
+
+- Valor de lugar
+Bens e serviços devem estar disponíveis no local adequado ao cliente
+
+- Valor de qualidade
+Os produtos devem chegar em condições adequadas de conservação e uso, sem avarias
+
+- Valor de informação
+O cliente deve ter acesso a informações sobre disponibilidade, pedido e entrega, preferencialmente de forma atualizada
