@@ -45,3 +45,11 @@ Os produtos devem chegar em condições adequadas de conservação e uso, sem av
 
 - Valor de informação
 O cliente deve ter acesso a informações sobre disponibilidade, pedido e entrega, preferencialmente de forma atualizada
+
+## Objetivo da Logística e da Cadeia e Suprimentos
+
+Objetivo: Atender às necessidades do cliente final de maneira eficiente.
+
+<img src=".assets/img02.JPG"/>
+
+Integração: Conhecer a atender às necessidades ds diferentes etapas da cadeia seja em termos de material como de informação.
