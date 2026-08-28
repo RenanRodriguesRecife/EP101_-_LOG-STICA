@@ -25,3 +25,5 @@ Credibilidade
 
 Criação de valor
 - Contribui para gerar valor de tempo, lugar qualidade e informação
+
+Quanto maior a separação entre fontes de recursos, produção e consumidores, maior a relevância de logística.
