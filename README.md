@@ -1,5 +1,7 @@
 # EP101_-_LOGÍSTICA
 
+Indrodução - Logística e Cadeia de suprimentos
+
 - Por que a logística importa?
 
   - Produzir valor não é suficiente. É preciso disponibilizá-lo ao cliente
